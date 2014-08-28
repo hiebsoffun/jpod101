@@ -14,7 +14,6 @@ It requires the external packages	<br />
 </div>
 
 USAGE
-
 <div>
 The script knows three command line arguments which are all mandatory:<br />
 	<code>jpod101_loader.py -u username - p password [-d download_path] [-h] [--help]</code>
